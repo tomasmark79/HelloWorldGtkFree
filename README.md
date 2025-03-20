@@ -11,7 +11,8 @@ Starter for creating a GTK4 application with a single dynamically created window
  
 ![alt text](assets/logo.png)
 
-DotName C++ Template – A practical and efficient template for modern C++ development. 🏗️ With pre-configured build settings, modular architecture, and broad platform compatibility, it helps you focus on writing great code. 🌈
+
+**[DotName C++ Template](https://github.com/tomasmark79/DotNameCppFree)** – A practical and efficient template for modern C++ development. 🏗️ With pre-configured build settings, modular architecture, and broad platform compatibility, it helps you focus on writing great code. 🌈
 
 ## License
 
